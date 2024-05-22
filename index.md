@@ -7,4 +7,4 @@ Täältä löytyvät tehtäväpalautukset:
 - [Viikko 4](tehtavat/vko4)
 - [Viikko 5](tehtavat/vko5.html)
 - [Viikko 6](tehtavat/vko6)
-- Harjoitustyö
+- [Harjoitustyö](tehtavat/vko7)
